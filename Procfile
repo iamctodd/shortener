@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath shorty shorty.wsgi --logfile -
